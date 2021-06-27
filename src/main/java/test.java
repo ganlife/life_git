@@ -8,5 +8,6 @@ public class test {
         System.out.print("world");
         System.out.print("master");
         System.out.print("hot-fix");
+        System.out.print("push");
     }
 }
